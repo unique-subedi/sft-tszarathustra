@@ -1,0 +1,10 @@
+transformers>=4.44
+datasets>=2.20
+accelerate>=0.34
+peft>=0.12
+trl>=0.9
+sentencepiece
+einops
+tqdm
+rouge-score
+streamlit
